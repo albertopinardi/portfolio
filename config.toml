@@ -1,12 +1,13 @@
 baseURL = 'https://www.pinardi.me/'
 languageCode = 'en-us'
 title = 'Alberto Pinardi'
+theme = 'hugo-theme-shell'
 
 [Params]
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
   description = "Alberto Pinardi's Portfolio!"
   [Params.Terminal]
-  schema = "monokai"
+  schema = "Molokai"
 
   # Note: in terminal
   # [userName]@[pcName]:~/$ cd [workDir]
