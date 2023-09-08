@@ -7,7 +7,7 @@ theme = 'hugo-theme-shell'
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
   description = "Alberto Pinardi's Portfolio!"
   [Params.Terminal]
-  scheme = "Mono White"
+  scheme = "shell-retro"
 
   # Note: in terminal
   # [userName]@[pcName]:~/$ cd [workDir]
